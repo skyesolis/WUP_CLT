@@ -1,12 +1,12 @@
 ---
 title: "CLT_WUP"
-author: "Your Name"
+author: "Skye Solis"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"    
+date: "Summer 2024"    
     
 ---
 
